@@ -63,6 +63,12 @@ body {
 #searchBtn:active {
     transform: scale(0.97);
 }
+.note {
+  color: #aaa;
+  font-size: 13px;
+  margin-top: 10px;
+  text-align: center;
+}
 
 /* Results grid (initially hidden) */
 #result {
